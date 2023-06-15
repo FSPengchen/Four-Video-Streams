@@ -1,0 +1,5 @@
+train: E:\MeasurementSlab\train\images
+val: E:\MeasurementSlab\valid\images
+
+nc: 1
+names: ['gangpi']

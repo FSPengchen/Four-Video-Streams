@@ -1,0 +1,5 @@
+train: D:\PycharmProjects\YOLO\NEU_DET\train\images
+val: D:\PycharmProjects\YOLO\NEU_DET\valid\images
+
+nc: 6
+names: ['crazing', 'inclusion', 'patches', 'pitted_surface', 'rolled-in_scale', 'scratches']
